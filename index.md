@@ -7,5 +7,3 @@
 * Larry Plotter y La Orden de Unix
 * Larry Plotter y El Misterio del Hacker
 * Larry Plotter y Los Commits de la Muerte
-
-
